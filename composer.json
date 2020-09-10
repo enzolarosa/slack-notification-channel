@@ -1,5 +1,5 @@
 {
-    "name": "beyondcode/slack-notification-channel",
+    "name": "enzolarosa/slack-notification-channel",
     "description": "Slack Notification Channel for Laravel using API tokens.",
     "keywords": ["laravel", "notifications", "slack"],
     "license": "MIT",
@@ -11,8 +11,8 @@
     ],
     "require": {
         "php": "^7.2.0",
-        "guzzlehttp/guzzle": "^6.0",
-        "illuminate/notifications": "~5.8.0|^6.0|^7.0"
+        "guzzlehttp/guzzle": "^6.0|^7.0",
+        "illuminate/notifications": "~5.8.0|^6.0|^7.0|^8.0"
     },
     "require-dev": {
         "mockery/mockery": "^1.3",
